@@ -21,5 +21,6 @@
 ![image](https://user-images.githubusercontent.com/81178958/133168590-ca8cfef4-7a24-42fe-9847-a5ade9e95521.png)
 
 # Youtube PlayList ScreenShort
-visual representation of the playlists created
+- visual representation of the playlists created
+
 ![image](https://user-images.githubusercontent.com/81178958/133168879-8cc9e5ca-f461-4c21-ad39-2352b5b92694.png)
