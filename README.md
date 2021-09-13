@@ -11,7 +11,7 @@
 - Clone the the bot to your local machine 
 - run `npm install` to get all the modules installed 
 - install the following modules `telegraf`, `ytsr` and `dotenv` through `npm i {module name}`
-- rename Example.env file
+- rename Example.env file to `.env`
 - set up your configurations as shown on the Example.env file
 - or add `BOT_TOKOEN`, `CLIENT_ID`, `CLIENT_SECRET_KEY` in your `.env` file
 - Run `npm run dev`
